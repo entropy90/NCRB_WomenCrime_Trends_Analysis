@@ -50,4 +50,3 @@ plt.savefig('top_crimes_chart.png')
 plt.show()
 print("\nAnalysis complete! Chart saved as 'top_crimes_chart.png'")
 
-print("i like aditya")
